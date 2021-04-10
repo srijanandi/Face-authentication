@@ -23,5 +23,5 @@ jumper wires
 1. This repository consists of all resources except the datasets of mask and without mask (as it was large and couldn't be uploaded).
 2. face_detect.py file detects the face of a person if it matches from the database
 3. detect_mask.py file detects if the person is wearing mask or not.
-4. arduino.py is basically connection with the hardware.
+4. arduino_connection.io is the code to be embedded on arduino.
 5. combined.py file is the integration of our entire model. (will run when hardware is connected).
